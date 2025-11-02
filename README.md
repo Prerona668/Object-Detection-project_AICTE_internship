@@ -3,4 +3,8 @@ Green technology in Automotives using  object Detection
 
 Monday : Introduction to object detections, various tools to be used .
 
-Tuesday : Collection of dataset on Traffic light object detection from kaggle and creating repository on github.
+Tuesday : Collection of dataset on Traffic light object detection from roboflow and creating repository on github.
+
+Wednesday: Examining the dataset
+
+Friday: Setting up YOLOV11 environment on google colab and importing libraries from roboflow 
